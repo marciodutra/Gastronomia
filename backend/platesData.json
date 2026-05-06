@@ -1,0 +1,42 @@
+[
+    {
+    "name": "Massa De Limão",
+    "price": "R$27,90",
+    "available": false,
+    "description": "Massa de limão nata, limão, cebola e azeite de oliva. Porção individual.",
+    "category": "First"
+},
+
+{
+    "name": "Prato Do Dia C/ Alcatra",
+    "price": "R$51,90",
+    "available": true,
+    "description": "Arroz branco, feijão, 1 bife de alcatra e salada. Massa á sua escolha",
+    "category": "First"
+},
+
+{
+    "name": "Nhoque Ao Molho De Queijos Porção P/ 2 Pessoas 500gr",
+    "price": "R$62,90",
+    "available": true,
+    "description": "Nhoque ao molho de queijos.",
+    "category": "First"
+},
+
+{
+    "name": "Frango Grelhado C/ Legumes",
+    "price": "R$39,90",
+    "available": true,
+    "description": "Peito de frango grelhado com legumes e purê de batata.",
+    "category": "First"
+},
+
+{
+    "name": "Massa Ao Sugo Porção P/ 2 Pessoas",
+    "price": "R$39,90",
+    "available": false,
+    "description": "Massa ao sugo com molho vermelho e queijo.",
+    "category": "First"
+}
+
+]
